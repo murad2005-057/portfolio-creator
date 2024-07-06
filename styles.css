@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    color: #f8f9fa;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+    margin-right: 1rem;
+}
+
+#home,#about, #projects, #contact  {
+    padding: 2rem 0;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.text{
+    color: black;
+}
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem 2rem;
+}
+
+.jumbotron .btn {
+    margin: 0.5rem;
+}
